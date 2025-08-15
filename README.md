@@ -64,7 +64,7 @@ From the IPv6 Metric analysis, we saw the results as follows:
 ### Trend Analysis
 The popularity of `20,000` domains were analyzed over period of one month for all three data sources, Majestic, Alexa, and Tranco. The results were stored in Elasticsearch and Kibana wa sused for visualizations as shown below. The results are shown for 3 dates, March 11, March 25, and April 10. There are three graphs per data source, Top 100 domains, Top 1000 domains, and Top 10000 domains.
 
-![](images/majestic_dashboard.png) 
+![image_alt](https://github.com/sumanthreddy0127/Crawl_Analyze_Top1/blob/40eb0081091f8c2b887891b4346358ed6ad82a88/Images/majestic_dashboard.png) 
 
 ![](images/alexa_dashboard.png)
 
