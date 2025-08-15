@@ -73,11 +73,11 @@ The popularity of `20,000` domains were analyzed over period of one month for al
 ### Results of Sub Domain Enumeration
 The presented tool is one of the most efficient active scanning sub domain enumeration scripts and can produce large number of sub domains in short spans of time. As an example, a complete run on the domain `stanford.edu` resulted in a total of `1746` subdomains in a short span of `25.91` seconds.
 
-![](images/sub_domain_enum_show.png)
+![image_alt](https://github.com/sumanthreddy0127/Crawl_Analyze_Top1/blob/8ea358d871ccfb87f1f4b6b10aad46c876603d7a/Images/sub_domain_enum_show.png)
 
 The visualization below shows the number of sub domains per domain for Top 100 domains using Kibana dashboard.
 
-![](images/main_dashboard.png)
+![image_alt](https://github.com/sumanthreddy0127/Crawl_Analyze_Top1/blob/8ea358d871ccfb87f1f4b6b10aad46c876603d7a/Images/main_dashboard%20(2).png)
 
 ## Conclusion
 The results from the graphs showed us that there were notable differences between rankings of domains in the span of one month for all three data sources (Majestic, Alexa, and Tranco). The security metrics results shows us how many domains employed HTTP/2.0, IPv6 and TLS version. There were considerable amount of domains that had no HTTP/2.0 adoption, no IPv6 adoption, using TLSv1.2 and some still using TLSv1.1.  
