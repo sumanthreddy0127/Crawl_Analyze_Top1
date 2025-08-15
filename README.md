@@ -66,9 +66,9 @@ The popularity of `20,000` domains were analyzed over period of one month for al
 
 ![image_alt](https://github.com/sumanthreddy0127/Crawl_Analyze_Top1/blob/40eb0081091f8c2b887891b4346358ed6ad82a88/Images/majestic_dashboard.png) 
 
-![](images/alexa_dashboard.png)
+![image_alt](https://github.com/sumanthreddy0127/Crawl_Analyze_Top1/blob/e369d5118ee6c02c79347a0126124eb1eef2821b/Images/alexa_dashboard.png)
 
-![](images/tranco_dashboard.png)
+![image_alt](https://github.com/sumanthreddy0127/Crawl_Analyze_Top1/blob/e369d5118ee6c02c79347a0126124eb1eef2821b/Images/tranco_dashboard.png)
 
 ### Results of Sub Domain Enumeration
 The presented tool is one of the most efficient active scanning sub domain enumeration scripts and can produce large number of sub domains in short spans of time. As an example, a complete run on the domain `stanford.edu` resulted in a total of `1746` subdomains in a short span of `25.91` seconds.
